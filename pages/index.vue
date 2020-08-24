@@ -1,8 +1,6 @@
 <template>
   <div class="page-index">
-    <div class="container">
-      <BlogSection :blogs="blogs"/>
-    </div>
+    <div class="container">Test</div>
   </div>
 </template>
 
