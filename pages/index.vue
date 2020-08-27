@@ -1,7 +1,7 @@
 <template>
   <div class="page-index">
     <div class="container">
-      <nuxt-link to="/blogs/bacon-ipsum">bacon</nuxt-link>
+      <nuxt-link to="/blog/bacon-ipsum">bacon</nuxt-link>
     </div>
   </div>
 </template>
