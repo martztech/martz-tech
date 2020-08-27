@@ -1,6 +1,8 @@
 <template>
   <div class="page-index">
-    <div class="container">Test</div>
+    <div class="container">
+      <nuxt-link to="/blogs/bacon-ipsum">bacon</nuxt-link>
+    </div>
   </div>
 </template>
 
