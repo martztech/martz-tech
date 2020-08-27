@@ -2,7 +2,8 @@
   <div class="page-index">
     <div class="container">
       <nuxt-link to="/blog/design-thinking">Design Thinking</nuxt-link>
-      <BlogSection/>
+
+      <BlogSection :blogs="blogs"/>
     </div>
   </div>
 </template>
