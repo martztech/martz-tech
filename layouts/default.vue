@@ -3,82 +3,124 @@
     <header>
       <section>
         <div>
-          <div>
-            <h1>Martz Technologies</h1>
+          <div id="brand">
+            <svg
+              version="1.1"
+              id="logo"
+              xmlns="http://www.w3.org/2000/svg"
+              x="0"
+              y="0"
+              viewBox="0 0 760 100"
+              xml:space="preserve"
+            >
+              <g id="tech">
+                <path
+                  class="st0"
+                  d="M325.53 36.01H311v27.75h-2.21V36.01H294.3v-2h31.23v2zM360.96 61.68v2.08h-28V34.01h27.58v2.04h-25.37v11.52h21.76v2.08h-21.76v12.03h25.79zM397.25 56.66l2.08 1.06c-2.8 4.29-7.78 6.93-14.87 6.93-11.05 0-17.64-6.21-17.64-15.77 0-9.56 6.59-15.77 17.72-15.77 7.01 0 11.98 2.63 14.79 6.93l-2.08 1.06c-2.55-3.95-6.93-5.91-12.75-5.91-9.31 0-15.43 4.84-15.43 13.68s6.12 13.68 15.43 13.68c5.83.02 10.25-1.94 12.75-5.89zM438.56 34.01v29.75h-2.21V49.74h-26.26v14.02h-2.21V34.01h2.21v13.6h26.26v-13.6h2.21zM480.92 34.01v29.75h-1.96L452.4 36.82v26.94h-2.17V34.01h2.46l26.05 26.47V34.01h2.18zM490.31 48.89c0-9.6 6.59-15.77 17.76-15.77 11.18 0 17.76 6.16 17.76 15.77s-6.59 15.77-17.76 15.77c-11.17-.01-17.76-6.17-17.76-15.77zm33.23 0c0-8.71-6.12-13.68-15.47-13.68-9.39 0-15.51 4.97-15.51 13.68s6.12 13.68 15.51 13.68c9.35 0 15.47-4.97 15.47-13.68zM560.89 61.68v2.08h-25.71V34.01h2.21v27.66h23.5zM563.53 48.89c0-9.6 6.59-15.77 17.76-15.77 11.18 0 17.76 6.16 17.76 15.77s-6.59 15.77-17.76 15.77c-11.18-.01-17.76-6.17-17.76-15.77zm33.23 0c0-8.71-6.12-13.68-15.47-13.68-9.39 0-15.51 4.97-15.51 13.68s6.12 13.68 15.51 13.68c9.35 0 15.47-4.97 15.47-13.68zM640.57 55.9c-2.21 5.01-8.2 8.75-16.53 8.75-11.35 0-17.93-6.21-17.93-15.77 0-9.6 6.59-15.77 17.85-15.77 7.14 0 12.03 2.55 14.96 6.33L637 40.77c-2.76-3.65-7.1-5.57-13.05-5.57-9.48 0-15.6 4.8-15.6 13.68 0 8.84 6.16 13.68 15.72 13.68 6.54 0 12.03-2.38 14.28-7.27v-4.5h-14.62v-2.04h16.83v7.15zM649.74 63.76V34.01h2.21v29.75h-2.21zM691.64 61.68v2.08h-28V34.01h27.58v2.04h-25.37v11.52h21.76v2.08h-21.76v12.03h25.79zM729.51 55.47c0 5.18-5.35 9.18-15.09 9.18-6.88 0-13.05-2.17-16.91-6.37l1.62-1.57c3.65 4.04 9.05 5.86 15.38 5.86 8.2 0 12.75-2.93 12.75-6.97 0-4.12-4.97-5.27-13.51-6.08-7.69-.72-15.17-2.34-15.17-7.95 0-5.44 7.14-8.46 14.79-8.46 6.46 0 11.47 2.08 14.58 5.23l-1.74 1.44c-2.97-3.19-7.48-4.55-12.75-4.59-5.74-.04-12.58 1.95-12.58 6.33 0 4.12 6.2 5.23 13.64 5.91 8.87.78 14.99 2.48 14.99 8.04z"
+                ></path>
+              </g>
+              <g id="martz">
+                <path
+                  class="st1"
+                  d="M119.76 53.37l-15.99-19.28h-2.43v29.85h2.17V37.25l16.12 19.36h.17l16.07-19.36v26.69h2.22V34.09h-2.35zM162.14 34.09l-16.71 29.85h2.47l4.9-8.83h21.11l4.95 8.83h2.47l-16.71-29.85h-2.48zm-8.23 18.98l9.42-16.93 9.47 16.93h-18.89zM219.31 43.01c0-5.59-4.43-8.91-11.09-8.91h-19.57v29.85h2.26V51.96h15.99l10.45 11.98h2.9l-10.62-12.02c5.85-.43 9.68-3.67 9.68-8.91zm-28.44 6.9V36.14h17.23c5.5 0 8.95 2.43 8.95 6.86 0 4.48-3.45 6.91-8.95 6.91h-17.23zM223.45 36.1h14.54v27.84h2.22V36.1h14.58v-2.01h-31.34zM262.38 61.89l26.86-26.13v-1.67h-29.46v2.01h26.09l-26.86 26.14v1.7h30.91v-2.05z"
+                ></path>
+              </g>
+              <g id="symbol">
+                <path
+                  class="st1"
+                  d="M34.39 41.43c1.7-3.1 4.26-5.76 7.54-7.66 3.82-2.21 8.05-2.88 12.14-2.56 1.67.13 3.05-1.37 3.05-3.05 0-1.68-1.35-3.12-3.03-3.05-7.81.36-15.25 4.65-19.45 11.93-3.94 6.82-4.14 14.78-1.24 21.5a19.966 19.966 0 01.99-17.11zM58.33 28.28c6.06.84 11.26 4.4 14.3 9.42 1.83 3.02 2.87 6.57 2.87 10.36 0 4.41-1.52 8.41-3.84 11.79-.95 1.39-.34 3.33 1.12 4.17 1.45.84 3.36.39 4.13-1.1 3.59-6.94 3.61-15.55-.59-22.83-3.92-6.83-10.72-10.96-17.99-11.81zM56.75 72.69c-3.53.08-7.11-.81-10.4-2.7-3.82-2.21-6.53-5.53-8.3-9.23-.5-1.04-1.59-1.58-2.7-1.53-.5.02-1.01.17-1.46.43-1.45.84-2.02 2.72-1.12 4.13 4.22 6.58 11.67 10.9 20.07 10.9 7.88 0 14.86-3.81 19.23-9.67-3.76 4.82-9.46 7.54-15.32 7.67z"
+                ></path>
+              </g>
+            </svg>
             <h3>Radical Thinking In Systems Design</h3>
           </div>
         </div>
       </section>
-
-      <nav>
-        <dl>
-          <dt>Software &amp; Application &amp; Website Design</dt>
-          <dd>
-            <nuxt-link to="/">ABC</nuxt-link>
-          </dd>
-          <dd>
-            <nuxt-link to="/">ABC</nuxt-link>
-          </dd>
-          <dd>
-            <nuxt-link to="/">ABC</nuxt-link>
-          </dd>
-          <dd>
-            <nuxt-link to="/">ABC</nuxt-link>
-          </dd>
-        </dl>
-        <dl>
-          <dt>Mechanical Prototype &amp; Product Design</dt>
-          <dd>
-            <nuxt-link to="/">ABC</nuxt-link>
-          </dd>
-          <dd>
-            <nuxt-link to="/">ABC</nuxt-link>
-          </dd>
-          <dd>
-            <nuxt-link to="/">ABC</nuxt-link>
-          </dd>
-          <dd>
-            <nuxt-link to="/">ABC</nuxt-link>
-          </dd>
-        </dl>
-        <dl>
-          <dt>Natural &amp; Regenerative Systems Design</dt>
-          <dd>
-            <nuxt-link to="/">ABC</nuxt-link>
-          </dd>
-          <dd>
-            <nuxt-link to="/">ABC</nuxt-link>
-          </dd>
-          <dd>
-            <nuxt-link to="/">ABC</nuxt-link>
-          </dd>
-          <dd>
-            <nuxt-link to="/">ABC</nuxt-link>
-          </dd>
-        </dl>
-      </nav>
+      <button @click="openMenu" id="menuBtn">
+        <svg
+          id="menuIcon"
+          version="1.1"
+          xmlns="http://www.w3.org/2000/svg"
+          x="0"
+          y="0"
+          viewBox="0 0 50 50"
+          xml:space="preserve"
+        >
+          <path
+            class="st1"
+            d="M47 28H3c-1.1 0-2-.9-2-2v-2c0-1.1.9-2 2-2h44c1.1 0 2 .9 2 2v2c0 1.1-.9 2-2 2zM47 13H3c-1.1 0-2-.9-2-2V9c0-1.1.9-2 2-2h44c1.1 0 2 .9 2 2v2c0 1.1-.9 2-2 2zM47 43H3c-1.1 0-2-.9-2-2v-2c0-1.1.9-2 2-2h44c1.1 0 2 .9 2 2v2c0 1.1-.9 2-2 2z"
+          ></path>
+        </svg>
+      </button>
+      <Menu/>
     </header>
     <nuxt class="nuxt-content"/>
     <Footer/>
   </div>
 </template>
 <script>
+const { gsap } = require("gsap/dist/gsap");
+import GSAP from "gsap";
 import Footer from "~/components/Sections/Footer";
+import Menu from "~/components/Menu";
 
 export default {
   components: {
-    Footer
+    Footer,
+    Menu,
+    GSAP
+  },
+  methods: {
+    openMenu: function() {
+      gsap.to("#menu", {
+        // selector text, Array, or object
+        x: 360, // any properties (not limited to CSS)
+        duration: 0.3, // seconds
+        delay: 0,
+        ease: "power4.inOut"
+      });
+      gsap.to("#menuBtn", {
+        // selector text, Array, or object
+        x: 360, // any properties (not limited to CSS)
+        duration: 0.3, // seconds
+        delay: 0,
+        ease: "power4.inOut"
+      });
+    }
   }
 };
 </script>
 <style lang="scss">
 .layout {
+  background: #0c2242;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
-
+header {
+  padding: 30px;
+}
 .nuxt-content {
   flex-grow: 1;
+}
+#brand {
+  max-width: 760px;
+  margin: auto;
+}
+#logo,
+#menuIcon {
+  .st0 {
+    fill: #67cef5;
+  }
+  .st1 {
+    fill: #fff;
+  }
+}
+#menuBtn {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
 }
 </style>
